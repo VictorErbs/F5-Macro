@@ -9,12 +9,11 @@ Este script permite automatizar a atualização de uma página da web pressionan
 
 ## Uso
 
-1. Instale a biblioteca necessária executando o seguinte comando: pip install keyboard
+1. Instale a biblioteca necessária executando o seguinte comando: `pip install keyboard`
 
 2. Copie e cole o código fornecido em um arquivo Python (por exemplo, `auto_refresh.py`).
 
-3. Execute o script Python usando o seguinte comando:
-python auto_refresh.py
+3. Execute o script Python usando o seguinte comando: `python auto_refresh.py`
 
 4. O script pressionará e liberará a tecla F5 a cada 2 segundos, atualizando a página da web ativa.
 
